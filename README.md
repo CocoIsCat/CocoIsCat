@@ -26,14 +26,16 @@ Hi there 👋 I'm Back-End Developer using Spring Framework with Java.  </br>
 ## 🌱Experiences🌱
 
 **Bachelor Degree**
-- **Mar 2018 - Aug 2023(expected)** School of Computer science, Chungbuk National University</br>
+- **Mar 2018 - Aug 2023** School of Computer science, Chungbuk National University</br>
 
 **Undergraduate Researcher**
 - **Apr 2021 - Jun 2022** Intelligent Software Lab at Chungbuk National University's School of Computer Science
 
 **K-Digital Training**
-- **Sep 2022 - Apr 2023(expected)** Fintech Service Back-End Developer Training Course, FastCampus
+- **Sep 2022 - Apr 2023** Fintech Service Back-End Developer Training Course, FastCampus
 
+**Samsung Software Academy For Youth (SSAFY) 10th**
+- **July 2023 ~ Current** Java Major Track
 ---
 
 <img align='center' src="https://github-readme-stats.vercel.app/api?username=CocoIsCat">
