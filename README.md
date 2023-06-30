@@ -39,6 +39,7 @@ Hi there 👋 I'm Back-End Developer using Spring Framework with Java.  </br>
 ---
 
 <img align='center' src="https://github-readme-stats.vercel.app/api?username=CocoIsCat">
+<img align='right' src="http://mazassumnida.wtf/api/v2/generate_badge?boj=demy176">
 </div>
 
 <!--
