@@ -34,7 +34,7 @@ Hi there 👋 I'm Back-End Developer using Spring Framework with Java.  </br>
 **K-Digital Training**
 - **Sep 2022 - Apr 2023** Fintech Service Back-End Developer Training Course, FastCampus
 
-**Samsung Software Academy For Youth (SSAFY) 10th**
+**SSAFY(Samsung Software Academy For Youth) 10th**
 - **July 2023 ~ Current** Java Major Track
 ---
 
