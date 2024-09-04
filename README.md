@@ -36,17 +36,19 @@ Hi there 👋 I'm Developer Lee SeongMok  </br>
 
 ## 🌱Experiences🌱
 
-**Samsung Software Academy For Youth[SSAFY] 10th (July 2023 ~ June 2024)**
-- Java Major Track
-
+**삼성 청년 SW 아카데미[SSAFY] 10기 (2023.07 ~ 2024.06)**
+- 삼성전자 주식회사
+<!--
 **Bachelor Degree (Mar 2018 - Aug 2023)**
 - School of Computer science, Chungbuk National University</br>
-  
-**K-Digital Training (Sep 2022 - Apr 2023)**
+-->  
+**K-Digital Training 핀테크 서비스 백엔드 개발 과정 3기  (2022.09 ~ 2023.04)**
 - Fintech Service Back-End Developer Training Course, FastCampus
 
+<!--
 **Undergraduate Researcher (Apr 2021 - Jun 2022)**
 - Intelligent Software Lab at Chungbuk National University's School of Computer Science
+-->
 
 ---
 
