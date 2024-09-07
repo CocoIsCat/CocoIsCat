@@ -43,7 +43,7 @@ Hi there 👋 I'm Developer Lee SeongMok  </br>
 - School of Computer science, Chungbuk National University</br>
 -->  
 **K-Digital Training 핀테크 서비스 백엔드 개발 과정 3기  (2022.09 ~ 2023.04)**
-- Fintech Service Back-End Developer Training Course, FastCampus
+- 패스트캠퍼스 강남학원
 
 <!--
 **Undergraduate Researcher (Apr 2021 - Jun 2022)**
