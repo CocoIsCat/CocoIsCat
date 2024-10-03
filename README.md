@@ -45,10 +45,8 @@ Hi there 👋 I'm Developer Lee SeongMok  </br>
 **K-Digital Training 핀테크 서비스 백엔드 개발 과정 3기  (2022.09 ~ 2023.04)**
 - 패스트캠퍼스 강남학원
 
-<!--
-**Undergraduate Researcher (Apr 2021 - Jun 2022)**
-- Intelligent Software Lab at Chungbuk National University's School of Computer Science
--->
+**학부생 연구원 (2021.04 - 2022.06)**
+- 충북대학교 지능형 소프트웨어 연구실
 
 ---
 
